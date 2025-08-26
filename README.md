@@ -9,15 +9,13 @@
 
 > A web-based calculator demonstrating the application of MIRACLE API for pediatric cardiac MRI reference values. Part of SCMR 2026 Innovative Open Source Submission.
 
+**Live Demo**: [miracle-app.surge.sh](https://miracle-app.surge.sh/)
+
 ## 🎯 Overview
 
 This web application demonstrates the practical implementation of the MIRACLE API for calculating z-scores and percentiles for pediatric cardiac MRI measurements. While this demo focuses on volumetric references, the MIRACLE API offers many more endpoints for comprehensive cardiovascular MRI analysis.
 
 🔗 [View Full API Documentation](https://miracleapi.readme.io/)
-
-## ✨ Demo
-
-Try **Pediatric CMR Reference Calculator** web application demo at: [miracle-app.surge.sh](https://miracle-app.surge.sh/)
 
 ## ✨ Features
 
