@@ -11,7 +11,7 @@
 
 **Live Demo**: [miracle-app.surge.sh](https://miracle-app.surge.sh/)
 
-## 🎯 Overview
+## 🎯 SCMR 2026 Open Source Innovation Submission
 
 This web application demonstrates the practical implementation of the MIRACLE API for calculating z-scores and percentiles for pediatric cardiac MRI measurements. While this demo focuses on volumetric references, the MIRACLE API offers many more endpoints for comprehensive cardiovascular MRI analysis.
 
@@ -96,12 +96,14 @@ MIT License - feel free to use and modify for your needs.
 
 ## 🙏 Acknowledgments
 
-- MIRACLE API developers
 - SCMR Open Source Initiative
-- Contributors and testers
 
 ## 📧 Contact
 
 For questions about:
 - MIRACLE API: [API Documentation](https://miracleapi.readme.io/)
 - This Web App: [GitHub Issues](https://github.com/drankush/MIRACLE-webapp/issues)
+
+---
+
+Made with ❤️ for the CMR Community
