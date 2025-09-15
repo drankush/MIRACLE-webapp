@@ -11,6 +11,8 @@
 
 **Live Demo**: [miracle-app.surge.sh](https://miracle-app.surge.sh/)
 
+[![Surge Status](https://img.shields.io/website?url=https%3A%2F%2Fmiracle-app.surge.sh&label=surge&up_message=200%20OK&down_message=down&up_color=brightgreen&down_color=red&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEzIDJMMyAxNGg3bC0xIDggMTAtMTJoLTd6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+&style=flat)](https://miracle-app.surge.sh)
+
 ## 🎯 SCMR 2026 Open Source Innovation Submission
 
 This web application demonstrates the practical implementation of the MIRACLE API for calculating z-scores and percentiles for pediatric cardiac MRI measurements. While this demo focuses on volumetric references, the MIRACLE API offers many more endpoints for comprehensive cardiovascular MRI analysis.
